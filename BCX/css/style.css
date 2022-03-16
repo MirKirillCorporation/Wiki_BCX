@@ -1,0 +1,53 @@
+body{margin:0;
+    background: #e5e5e5;}
+
+
+.all{border: #545454 10px;
+    background:#d2d2d2;
+    width:75% ;
+    background-size:cover ;
+    width: 1024PX;
+    margin: 0 auto; 
+    border-radius: 8px;}
+
+.name{
+    border: #545454 10px solid;
+    background:#d2d2d2 ;
+    padding: 10px 30px;
+    
+    
+    text-align: center;}
+
+
+.hero{width:45%;
+     border:10px solid #096313;  
+     background: #12e32c;
+     width: 110%;}
+
+.h{border:10px solid #408e0d;  
+     background: #67e314;}
+
+
+.ser{
+     border:10px solid #800003;  
+     background: #d50005;
+     display: flex;}
+
+.s{border:10px solid #d36b75;  
+     background: #fe808d;}
+
+.news{width:45%;
+     border:10px solid #003680;  
+     background: #006bff;}
+
+.n{border:10px solid #008ba9;  
+     background: #00d1ff;
+ }
+
+.pr{width: 100px;
+     height: 100px;
+    opacity: .3;}
+
+.rp{display:flex; }
+.p{}
+
